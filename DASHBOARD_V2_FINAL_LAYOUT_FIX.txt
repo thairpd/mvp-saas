@@ -1,0 +1,6 @@
+Final dashboard V2 layout fix:
+- Team Workload is now forced into the right column beside Assign New Task on desktop.
+- Team member cards have proper spacing, separators, avatar, completion bar and footer statistics.
+- Replaced emoji status indicators with Font Awesome icons.
+- Improved form/grid behavior and mobile breakpoint.
+- No database changes.

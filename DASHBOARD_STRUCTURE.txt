@@ -1,0 +1,6 @@
+TaskFlow dashboard structure
+
+manager/dashboard.php is the only manager dashboard page.
+The previous dashboard_v2.php file has been removed.
+The sidebar Dashboard link points to manager/dashboard.php.
+No database changes are required for this cleanup.

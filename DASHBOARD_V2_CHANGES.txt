@@ -1,0 +1,7 @@
+Dashboard V2 improvements
+
+1. Rebuilt assets/css/dashboard-v2.css around the actual dashboard_v2.php structure.
+2. Added a consistent dark SaaS visual system: sidebar, topbar, cards, widgets, forms, tables, badges and responsive breakpoints.
+3. Fixed the CSS class collision between the "In Progress" stat card and the generic Bootstrap/progress component.
+4. Added the missing workload and recent-task database queries to manager/dashboard_v2.php so the V2 page has the data its HTML expects.
+5. Kept the existing Bootstrap and Font Awesome dependencies.
